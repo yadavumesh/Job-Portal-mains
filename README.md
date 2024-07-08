@@ -33,7 +33,7 @@ adding my code
 - Redux toolkit
 - joi validation
 - mongoDB
-- SWR hooks for fetching API 
+
 
 ## Environment Variables
 

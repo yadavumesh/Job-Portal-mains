@@ -23,8 +23,7 @@ adding my code
 - Status Updated for applied Job based on Job poster action 
 - JWT validation on each Authorized Request
 
-#### ( Below Feature works only in Local Environment as Vercel Don't allow write operation in free plan so CV are unable to saved in production while you can use firebase , or aws s3 bucket to store , but works fine in local App ) 
-- View or download Applicant CV's 
+ 
 
 
 

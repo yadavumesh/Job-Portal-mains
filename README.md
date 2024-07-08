@@ -21,7 +21,7 @@ adding my code
 - Track Your Posted Jobs and view Submitted Application 
 - Accept and Reject Different Application 
 - Status Updated for applied Job based on Job poster action 
-- JWT validation on each Authorized Request
+ 
 
  
 
